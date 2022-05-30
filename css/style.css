@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../assets/img/invitacion/fondo.png);
+}
+
+.treinta{
+    width: 50%;
+    height: 25vh;
+}
+
+.amarillo {
+    margin-top: -7vh;
+    margin-left: 12vw;
+    position: absolute;
+}
+
+.azul {
+    margin-left:50vw;
+}
+.invroj {
+    position: absolute;
+    margin-top: -10vh;
+    margin-left: 25vw;
+}
+.invam {
+    margin-left: 55vw;
+    margin-top: -4vh;
+}
+
+.zig {
+    margin-top:8vh ;
+}
+.mano {
+    position: absolute;
+    margin-top: -35vh;
+    margin-left: 6vw;
+}
+
+.fecha {
+    margin-left: 35vw;
+    margin-top: 1vh;
+}
+.dir {
+    margin-left: 45vw;
+    margin-top: 5vh;
+}
